@@ -1,0 +1,9 @@
+# Ignore Unity temporary files
+[Ll]ibrary/
+[Tt]emp/
+[Tt]race/
+# Ignore build results
+Build/
+Builds/
+# Ignore user-specific files
+UserSettings/
